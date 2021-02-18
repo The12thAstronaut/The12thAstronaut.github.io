@@ -18,21 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: The 12th Astronaut Lab
+email: 12thastronautteam@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The 12th Astronaut Lab is a group of project teams orientated around helping fix challenges in space or flight operations using AR and VR. The lab helps promote team work, camaraderie, and allows for students to get real world experience tackling problems from NASA, the Air Force, or other aerospace companies while expanding students experience with AR/VR, programming, and space/flight operations.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: jekyll-theme-prologue
 plugins:
   - jekyll-feed
+
+highlighter: null
 
 # Exclude from processing.
 # The following items will not be processed, by default.
