@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UI Sub-Team
+title: UI Team
 order: 2
 ---
 

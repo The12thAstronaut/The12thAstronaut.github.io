@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Sub-Team
+title: Research Team
 order: 4
 ---
 

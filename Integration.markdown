@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Integration Sub-Team
+title: Integration Team
 order: 3
 ---
 
