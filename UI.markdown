@@ -1,6 +1,7 @@
 ---
 layout: page
 title: UI
+order: 2
 ---
 
 User Interface (UI) Sub-Team
