@@ -19,6 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: The 12th Astronaut
+author: The 12th Astronaut
+avatar: assets/images/seal.png
 email: 12thastronautteam@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The 12th Astronaut Lab is a group of project teams orientated around helping fix challenges in space or flight operations using AR and VR. The lab helps promote team work, camaraderie, and allows for students to get real world experience tackling problems from NASA, the Air Force, or other aerospace companies while expanding students experience with AR/VR, programming, and space/flight operations.
