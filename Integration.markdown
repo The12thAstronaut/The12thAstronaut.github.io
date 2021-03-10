@@ -22,7 +22,7 @@ Team Members:
 
 ![image](/assets/images/TerryMcEnroe.JPG){:width="200px"}
 
-![image](/assets/images/Rodriquez_Matthew_Pic2.jpg){:width="200px"}
+![image](/assets/images/Rodriguez_Matthew_Pic2.jpg){:width="200px"}
 
 ![image](/assets/images/CassieMullins.jpg){:width="200px"}
 
