@@ -19,10 +19,14 @@ On the side, Jaime likes to travel: he's visited Seville, Paris, Rome, and Bueno
 Team Members:
 
 ![image](/assets/images/IsraelGomez.PNG){:width="200px"}
+**Israel Gomez**
 
 ![image](/assets/images/TerryMcEnroe.JPG){:width="200px"}
+**Terry McEnroe** 
 
 ![image](/assets/images/Rodriguez_Matthew_Pic2.jpg){:width="200px"}
+**Matthew Rodriguez** 
 
 ![image](/assets/images/CassieMullins.jpg){:width="200px"}
+**Cassie Mullins** 
 
