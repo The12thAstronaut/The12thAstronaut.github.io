@@ -17,3 +17,13 @@ The User Interface team designs intuitive Augmented Reality (AR) visor displays 
 4. Superposition of instructional animated holograms within the environment for complex tasks.
 
 Team Lead: Neil McHenry
+
+![image](/assets/images/NeilMcHenry_Austria_SpaceSuit.jpg){:width="200px"}
+
+Team Members:
+
+![image](/assets/images/laurenbrady.jpeg){:width="200px"}
+
+![image](/assets/images/BrockBalthazor.jpg){:width="200px"}
+
+![image](/assets/images/ManuelCarrera.PNG){:width="200px"}
