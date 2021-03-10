@@ -10,6 +10,7 @@ Team Lead: Kevin Mayorga
 **Kevin Mayorga** is an undergraduate aerospace engineering student, class of 2022. He is from Katy, TX but has lived in several other places and is currently living in Boston, MA. Kevin would like to attempt to go for his Master’s degree after graduating. Kevin has been part of the 12th Astronaut lab since Fall of 2019 and is the current research team lead. Kevin is a second degree black belt in taekwondo and has competed internationally before in the sport. He enjoys playing video games, table top board games, and traveling.
 
 Team Members:
+
 ![image](/assets/images/BrockBalthazor.jpg){:width="200px"}
 **Brock Balthazor** is a USVM Junior. He is interested in Bioastronautics and the development of life support systems for space operations. Brock helped found the 12th Astronaut Lab and did research with the Bioastronautics and Human Performance Lab. He calls Flower Mound Texas home but has also lived in Greenbay Wisconsin and Waukegan Illinois. He plans on getting his masters degree in Human Factors from Embry Riddle while continuing his work as an EMT in the College Station area.
 
