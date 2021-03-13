@@ -19,14 +19,19 @@ On the side, Jaime likes to travel: he's visited Seville, Paris, Rome, and Bueno
 Team Members:
 
 ![image](/assets/images/IsraelGomez.PNG){:width="200px"}
-**Israel Gomez**
+**Israel Gomez** is a junior Mechanical and Manufacturing Engineering Technology student here at Texas A&M University. He is interested in creating robotic applications for space exploration, and virtual/augmented aid/simulations. He was born and raised in Houston, TX (go Rockets), and has been involved with the 12th Astronaut Lab since its creation.
+
+When Israel is not busy with classes and the 12th Astronaut Lab, he actively rock climbs and practices guitar. After graduation, Israel would like to enter either the entertainment industry as an engineer, or pursue a career at NASA.
+
 
 ![image](/assets/images/TerryMcEnroe.JPG){:width="200px"}
-**Terry McEnroe** 
+**Terry McEnroe** is a junior in the Materials Science and Engineering department at Texas A&M. She is from San Antonio, Texas where she graduated from a science and engineering academy. While pursuing her dream of becoming an astronaut, she is also a certified SCUBA diver. She loves to go hike in the Texas State Parks with her mom and likes to go diving and golfing with her grandparents. 
+Terry has wanted to be an astronaut since she was a kid and has always actively pursued that dream. She’s met a couple astronauts who have helped her on her journey. This dream has led her to join her high school robotics team, work at Space Camp, and join the NASA SUITS team.
+
 
 ![image](/assets/images/Rodriguez_Matthew_Pic2.jpg){:width="200px"}
-**Matthew Rodriguez** 
+**Matthew Rodriguez** is an energetic third year Mechanical engineering student at Texas A&M University that has collaborated with NASA SUITS for nearly one year as a part of the Integration and Finance team. After graduation Matthew hopes to pursue a career defence contracting with L3 Harris. When Matthew is not busy with school he enjoys  powerlifting, golfing and studying astronomy.
 
 ![image](/assets/images/CassieMullins.jpg){:width="200px"}
-**Cassie Mullins** 
+**Cassie Mullins** is a first year Visualization MS student at Texas A&M. She is from Atlanta, Georgia, where she graduated from Georgia Tech with a BS in Computational Media in 2019 and worked as a software developer for NCR. She’s also previously interned as a game developer at Adult Swim and was an undergraduate research assistant in an AR/VR lab. She loves computer graphics and hopes one day to help make tools for artists, developers, and engineers. She loves traveling, hiking, white water rafting on breaks and spends most of her free time during the semester watching movies and playing (and occasionally making) games.
 
