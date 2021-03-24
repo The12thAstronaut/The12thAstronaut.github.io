@@ -19,6 +19,6 @@ Social Media & Art - Team Lead: Erin Caña
 
 
 Finance - Team Lead: Ashutosh Mishra
-
-**Ashu Mishra** is an undergraduate aerospace engineer student, class of 2022. He is interested in developing AR and VR systems for space exploration. He has been part of the NASA SUITS team since 2018. He is part of the integration team and is the finance lead for the organization since August 2019.
+![image](/assets/images/AshuMishra.png){:width="200px"}
+**Ashutosh Mishra** is an undergraduate aerospace engineer student, class of 2022. He is interested in developing AR and VR systems for space exploration. He has been part of the NASA SUITS team since 2018. He is part of the integration team and is the finance lead for the organization since August 2019.
 As for hobbies, he likes to workout, dance, play video games, and watch anime.
