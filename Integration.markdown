@@ -35,3 +35,9 @@ Terry has wanted to be an astronaut since she was a kid and has always actively 
 ![image](/assets/images/CassieMullins.jpg){:width="200px"}
 **Cassie Mullins** is a first year Visualization MS student at Texas A&M. She is from Atlanta, Georgia, where she graduated from Georgia Tech with a BS in Computational Media in 2019 and worked as a software developer for NCR. She’s also previously interned as a game developer at Adult Swim and was an undergraduate research assistant in an AR/VR lab. She loves computer graphics and hopes one day to help make tools for artists, developers, and engineers. She loves traveling, hiking, white water rafting on breaks and spends most of her free time during the semester watching movies and playing (and occasionally making) games.
 
+![image](/assets/images/AshuMishra.png){:width="200px"}
+**Ashutosh Mishra** is an undergraduate aerospace engineer student, class of 2022. He is interested in developing AR and VR systems for space exploration. He has been part of the NASA SUITS team since 2018. He is part of the integration team and is the finance lead for the organization since August 2019.
+As for hobbies, he likes to workout, dance, play video games, and watch anime.
+
+
+
