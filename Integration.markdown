@@ -17,9 +17,7 @@ On the side, Jaime likes to travel: he's visited Seville, Paris, Rome, and Bueno
 
 
 Team Members:
-
-![image](/assets/images/IsraelGomez.PNG){:width="200px"}
-**Israel Gomez** is a junior Mechanical and Manufacturing Engineering Technology student here at Texas A&M University. He is interested in creating robotic applications for space exploration, and virtual/augmented aid/simulations. He was born and raised in Houston, TX (go Rockets), and has been involved with the 12th Astronaut Lab since its creation.
+<img style="float: left;" src="/assets/images/IsraelGomez.PNG"> **Israel Gomez** is a junior Mechanical and Manufacturing Engineering Technology student here at Texas A&M University. He is interested in creating robotic applications for space exploration, and virtual/augmented aid/simulations. He was born and raised in Houston, TX (go Rockets), and has been involved with the 12th Astronaut Lab since its creation.
 
 When Israel is not busy with classes and the 12th Astronaut Lab, he actively rock climbs and practices guitar. After graduation, Israel would like to enter either the entertainment industry as an engineer, or pursue a career at NASA.
 
