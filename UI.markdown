@@ -35,10 +35,10 @@ She will be participating in an internship at Ball Aerospace in Boulder, Colorad
 ![image](/assets/images/BrockBalthazor.jpg){:width="400px" style="float: left; padding-right:10px"}
 **Brock Balthazor** is a USVM Junior. He is interested in Bioastronautics and the development of life support systems for space operations. Brock helped found the 12th Astronaut Lab and did research with the Bioastronautics and Human Performance Lab. He calls Flower Mound Texas home but has also lived in Greenbay Wisconsin and Waukegan Illinois. He plans on getting his masters degree in Human Factors from Embry Riddle while continuing his work as an EMT in the College Station area.
 
-<span style="display:block" class="note"> ---- </span>
+<span style="display:block" class="note"> --- </span>
 
 
-<span style="display:block" class="note"> ---- </span>
+<span style="display:block" class="note"> --- </span>
 
 
 
