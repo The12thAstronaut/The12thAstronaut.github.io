@@ -31,12 +31,10 @@ Team Members:
 
 She will be participating in an internship at Ball Aerospace in Boulder, Colorado as part of the Immersive Technology group, where she will be working on augmented reality remote assistance in manufacturing and other applications. Lauren enjoys music and is a classically trained flutist and pianist who has competed and performed internationally. Upon graduation, she hopes to work in the defense sector on developing next-generation space missile warning and defense systems.
 
+<span style="display:block" class="note"> --- </span>
 
 ![image](/assets/images/BrockBalthazor.jpg){:width="300px" style="float: left; padding-right:10px"}
 **Brock Balthazor** is a USVM Junior. He is interested in Bioastronautics and the development of life support systems for space operations. Brock helped found the 12th Astronaut Lab and did research with the Bioastronautics and Human Performance Lab. He calls Flower Mound Texas home but has also lived in Greenbay Wisconsin and Waukegan Illinois. He plans on getting his masters degree in Human Factors from Embry Riddle while continuing his work as an EMT in the College Station area.
-
-<span style="display:block" class="note"> --- </span>
-
 
 <span style="display:block" class="note"> --- </span>
 
@@ -47,3 +45,4 @@ She will be participating in an internship at Ball Aerospace in Boulder, Colorad
 
 Manny has interned at NASA in 2019 in support of NASA SUITS and NASA’s JARVIS program to integrate a Head Mounted Display (HMD) with the new xEMU space suit for future ARTEMIS missions. His lifelong goal is to contribute towards independent space missions/travel and create interstellar vessels for future exploration. As a pastime, he spends his time exercising, hiking, and exploring all things science fiction.
 
+<span style="display:block" class="note"> --- </span>

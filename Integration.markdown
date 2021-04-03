@@ -27,17 +27,11 @@ When Israel is not busy with classes and the 12th Astronaut Lab, he actively roc
 <span style="display:block" class="note"> --- </span>
 
 
-<span style="display:block" class="note"> --- </span>
-
-
 
 
 ![image](/assets/images/TerryMcEnroe.JPG){:width="300px" style="float: left; padding-right:10px"}
 **Terry McEnroe** is a junior in the Materials Science and Engineering department at Texas A&M. She is from San Antonio, Texas where she graduated from a science and engineering academy. While pursuing her dream of becoming an astronaut, she is also a certified SCUBA diver. She loves to go hike in the Texas State Parks with her mom and likes to go diving and golfing with her grandparents. 
 Terry has wanted to be an astronaut since she was a kid and has always actively pursued that dream. She’s met a couple astronauts who have helped her on her journey. This dream has led her to join her high school robotics team, work at Space Camp, and join the NASA SUITS team.
-
-<span style="display:block" class="note"> --- </span>
-
 
 <span style="display:block" class="note"> --- </span>
 
@@ -50,8 +44,6 @@ Terry has wanted to be an astronaut since she was a kid and has always actively 
 <span style="display:block" class="note"> --- </span>
 
 
-<span style="display:block" class="note"> --- </span>
-
 
 
 ![image](/assets/images/CassieMullins.jpg){:width="300px" style="float: left; padding-right:10px"}
@@ -60,16 +52,10 @@ Terry has wanted to be an astronaut since she was a kid and has always actively 
 <span style="display:block" class="note"> --- </span>
 
 
-<span style="display:block" class="note"> --- </span>
-
-
 
 ![image](/assets/images/AshuMishra.png){:width="300px" style="float: left; padding-right:10px"}
 **Ashutosh Mishra** is an undergraduate aerospace engineer student, class of 2022. He is interested in developing AR and VR systems for space exploration. He has been part of the NASA SUITS team since 2018. He is part of the integration team and is the finance lead for the organization since August 2019.
 As for hobbies, he likes to workout, dance, play video games, and watch anime.
-
-<span style="display:block" class="note"> --- </span>
-
 
 <span style="display:block" class="note"> --- </span>
 

@@ -17,9 +17,6 @@ Team Members:
 <span style="display:block" class="note"> --- </span>
 
 
-<span style="display:block" class="note"> --- </span>
-
-
 
 ![image](/assets/images/erin_picture.png){:width="300px" style="float: left; padding-right:10px"}
 **Erin Cana** is an ITDE Undergraduate student (class of 2023) from Mckinney, Texas. Her major is focused on electrical and biomedical engineering, as well as kinesiology. She hopes to work with medical technology and programs focused on athletic recovery and injury prevention. Erin has been a part of the 12th Astronaut team since her freshman year (Fall 2019), and is the team's Social Media team lead, she is also a part of the Research team. Outside of school, Erin is a competitive gymnast at Kurt Thomas Gymnastics, and hopes to compete internationally one day.
@@ -27,7 +24,6 @@ Team Members:
 <span style="display:block" class="note"> --- </span>
 
 
-<span style="display:block" class="note"> --- </span>
 
 
 ![image](/assets/images/AnsleyHerrin.jpg){:width="300px" style="float: left; padding-right:10px"}
@@ -35,8 +31,6 @@ Team Members:
 
 <span style="display:block" class="note"> --- </span>
 
-
-<span style="display:block" class="note"> --- </span>
 
 
 

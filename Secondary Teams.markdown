@@ -15,16 +15,11 @@ She will be participating in an internship at Ball Aerospace in Boulder, Colorad
 <span style="display:block" class="note"> --- </span>
 
 
-<span style="display:block" class="note"> --- </span>
-
-
 
 Social Media & Art - Team Lead: Erin Caña
 
 ![image](/assets/images/erin_picture.png){:width="300px" style="float: left; padding-right:10px"}
 **Erin Cana** is an ITDE Undergraduate student (class of 2023) from Mckinney, Texas. Her major is focused on electrical and biomedical engineering, as well as kinesiology. She hopes to work with medical technology and programs focused on athletic recovery and injury prevention. Erin has been a part of the 12th Astronaut team since her freshman year (Fall 2019), and is the team's Social Media team lead, she is also a part of the Research team. Outside of school, Erin is a competitive gymnast at Kurt Thomas Gymnastics, and hopes to compete internationally one day.
-
-<span style="display:block" class="note"> --- </span>
 
 
 <span style="display:block" class="note"> --- </span>
@@ -35,3 +30,5 @@ Finance - Team Lead: Ashutosh Mishra
 ![image](/assets/images/AshuMishra.png){:width="300px" style="float: left; padding-right:10px"}
 **Ashutosh Mishra** is an undergraduate aerospace engineer student, class of 2022. He is interested in developing AR and VR systems for space exploration. He has been part of the NASA SUITS team since 2018. He is part of the integration team and is the finance lead for the organization since August 2019.
 As for hobbies, he likes to workout, dance, play video games, and watch anime.
+
+<span style="display:block" class="note"> --- </span>
