@@ -39,6 +39,9 @@ She will be participating in an internship at Ball Aerospace in Boulder, Colorad
 <span style="display:block" class="note"> --- </span>
 
 
+<span style="display:block" class="note"> --- </span>
+
+
 
 ![image](/assets/images/ManuelCarrera.PNG){:width="300px" style="float: left; padding-right:10px"}
 **Manuel (Manny) Carrera** a is an Undergraduate Aerospace Engineering student, class of 2023. He is also a Corporal of Marines in the United States Marine Corps Reserve. Born and raised in Dallas, Texas, he grew an affinity in space through the viewing of science fiction movies and building 3D models throughout his youth. 
