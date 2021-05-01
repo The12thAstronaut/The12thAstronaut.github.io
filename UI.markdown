@@ -29,6 +29,7 @@ Team Lead: Neil McHenry
                 <strong>Neil McHenry</strong>
                 <p>is a PhD student in the ITDE program, class of 2023. He is split between the departments of Aerospace Engineering and Visualization from the College of Architecture. He is an active member of the Students for the Exploration and Development of Space (SEDS-USA). His research focuses on developing a virtual reality space sandbox called "SpaceCRAFT" that aims to help shape the future of humanity in space. He hails from Dallas, TX and is currently is a PhD Candidate in the Aerospace Engineering Department at Texas A&M University, with a focus in spacecraft dynamics and control.
                 <br>
+                <br>
                 He obtained his Bachelor's degree in Electrical Engineering from Texas A&M University in 2015. During his undergraduate degree, he interned at the NASA Johnson Space Center for two summers, where he helped develop electrical hardware systems to train astronauts as part of the International Space Station program. At SpaceX, he helped develop flight software and hardware for the autonomous propulsive landing systems that are currently used on the Falcon 9 launch system. He is an Eagle Scout and enjoys volunteering around the community with the American Red Cross, and performing music on xylophone & viola with the "Chyao Pra Ya" Dallas Thai orchestra. His main passions are to become an astronaut and to ensure that humanity's future in space is bright.</p>
           </div>
         </div>
@@ -39,6 +40,7 @@ Team Lead: Neil McHenry
             <div class="caption">
                 <strong>Lauren Brady</strong>
                 <p>is an aerospace engineer, class of 2023. She is interested in developing augmented and virtual reality applications for use in space exploration and aerospace engineering. She is involved in several research groups within the AstroLab at Texas A&M University, namely a virtual reality sandbox for space mission design and exploration called SpaceCRAFT and the NASA SUITS design team.
+                <br>
                 <br>
                 She will be participating in an internship at Ball Aerospace in Boulder, Colorado as part of the Immersive Technology group, where she will be working on augmented reality remote assistance in manufacturing and other applications. Lauren enjoys music and is a classically trained flutist and pianist who has competed and performed internationally. Upon graduation, she hopes to work in the defense sector on developing next-generation space missile warning and defense systems</p>
           </div>
@@ -59,6 +61,7 @@ Team Lead: Neil McHenry
             <div class="caption">
             <strong>Manuel Carrera</strong>
                 <p>is an Undergraduate Aerospace Engineering student, class of 2023. He is also a Corporal of Marines in the United States Marine Corps Reserve. Born and raised in Dallas, Texas, he grew an affinity in space through the viewing of science fiction movies and building 3D models throughout his youth. 
+                <br>
                 <br>
                 Manny has interned at NASA in 2019 in support of NASA SUITS and NASA’s JARVIS program to integrate a Head Mounted Display (HMD) with the new xEMU space suit for future ARTEMIS missions. His lifelong goal is to contribute towards independent space missions/travel and create interstellar vessels for future exploration. As a pastime, he spends his time exercising, hiking, and exploring all things science fiction.</p>
             </div>
