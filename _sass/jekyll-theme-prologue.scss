@@ -262,11 +262,8 @@
 	
 	}
 /* Auto show hide div */
-div {
-width: 100%; 
-}
-
 div.autoShowHide {
+width: 200px;
 white-space: nowrap; 
 overflow: hidden;
 text-overflow: ellipsis;
