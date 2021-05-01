@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: bootstrap
 title: UI Team
 order: 2
 ---
