@@ -11,6 +11,11 @@ Team Lead: Kevin Mayorga
 ![image](/assets/images/KevinMayorga.JPG){:width="300px" style="float: left; padding-right:20px"}
 **Kevin Mayorga** is an undergraduate aerospace engineering student, class of 2022. He is from Katy, TX but has lived in several other places and is currently living in Boston, MA. Kevin would like to attempt to go for his Master’s degree after graduating. Kevin has been part of the 12th Astronaut lab since Fall of 2019 and is the current research team lead. Kevin is a second degree black belt in taekwondo and has competed internationally before in the sport. He enjoys playing video games, table top board games, and traveling.
 
+<span style="display:block" class="note"> --- </span>
+
+
+<span style="display:block" class="note"> --- </span>
+
 Team Members:
 
 ![image](/assets/images/BrockBalthazor.jpg){:width="300px" style="float: left; padding-right:10px"}
