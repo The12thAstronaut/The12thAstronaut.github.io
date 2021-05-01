@@ -18,25 +18,16 @@ The User Interface team designs intuitive Augmented Reality (AR) visor displays 
 
 Team Lead: Neil McHenry
 
-![image](/assets/images/NeilMcHenry_Austria_SpaceSuit.jpg){:width="300px" style="float: left; padding-right:10px"}
-**Neil McHenry** is a PhD student in the ITDE program, class of 2023. He is split between the departments of Aerospace Engineering and Visualization from the College of Architecture. He is an active member of the Students for the Exploration and Development of Space (SEDS-USA). His research focuses on developing a virtual reality space sandbox called "SpaceCRAFT" that aims to help shape the future of humanity in space. He hails from Dallas, TX and is currently is a PhD Candidate in the Aerospace Engineering Department at Texas A&M University, with a focus in spacecraft dynamics and control.
-
-He obtained his Bachelor's degree in Electrical Engineering from Texas A&M University in 2015. During his undergraduate degree, he interned at the NASA Johnson Space Center for two summers, where he helped develop electrical hardware systems to train astronauts as part of the International Space Station program. At SpaceX, he helped develop flight software and hardware for the autonomous propulsive landing systems that are currently used on the Falcon 9 launch system. He is an Eagle Scout and enjoys volunteering around the community with the American Red Cross, and performing music on xylophone & viola with the "Chyao Pra Ya" Dallas Thai orchestra. His main passions are to become an astronaut and to ensure that humanity's future in space is bright.
-
-
 Team Members:
 
 <div class="container">
 <div class="row">
     <div class="col-md-3 col-sm-6 col-xs-12">
         <div class="thumbnail">
-           <img src="img/img_avatar1.png" alt="Nature" />
+           <img src="assets/images/NeilMcHenry_Austria_SpaceSuit.jpg" alt="Neil" />
           <div class="caption">
-            <a href="#">Joy taylor</a>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-            consequat.</p>
+            <a href="#">Neil McHenry</a>
+            <p>is a PhD student in the ITDE program, class of 2023. He is split between the departments of Aerospace Engineering and Visualization from the College of Architecture. He is an active member of the Students for the Exploration and Development of Space (SEDS-USA). His research focuses on developing a virtual reality space sandbox called "SpaceCRAFT" that aims to help shape the future of humanity in space. He hails from Dallas, TX and is currently is a PhD Candidate in the Aerospace Engineering Department at Texas A&M University, with a focus in spacecraft dynamics and control. He obtained his Bachelor's degree in Electrical Engineering from Texas A&M University in 2015. During his undergraduate degree, he interned at the NASA Johnson Space Center for two summers, where he helped develop electrical hardware systems to train astronauts as part of the International Space Station program. At SpaceX, he helped develop flight software and hardware for the autonomous propulsive landing systems that are currently used on the Falcon 9 launch system. He is an Eagle Scout and enjoys volunteering around the community with the American Red Cross, and performing music on xylophone & viola with the "Chyao Pra Ya" Dallas Thai orchestra. His main passions are to become an astronaut and to ensure that humanity's future in space is bright.</p>
           </div>
         </div>
 </div>
