@@ -204,6 +204,64 @@
 		clear: both;
 	}
 
+
+/*team*/
+	#team{
+		padding: 20px 0;
+		height: 100%;
+		width: 100%;
+		background: #858586;
+		color: #fff;
+
+	}
+	#team h2{
+		text-align: center;
+		font-size: 45px;
+		font-family: 'Open sans',sans-serif;
+		padding: 20px;
+		font-weight: 700;
+	}
+	#team a{
+		text-align: center;
+		font-size: 20px;
+		margin: 0 auto;
+		display: block;
+		padding: 10px;
+		text-decoration: none;
+		text-transform: uppercase;
+
+	}
+	#team a:hover{
+		color: red;
+
+	}
+	#team p{
+		line-height: 2;
+		font-size: 16px;
+		letter-spacing: 0px;
+		font-style: 'Open sans',sans-serif;
+		text-align: left;
+		margin-top: 0;
+		margin-bottom: 20px;
+		text-align: center;
+
+	}
+	@media(max-width: 768px){
+		.col-xs-12{
+			width: 70%;
+			margin: 0 auto;
+			float: none;	
+		}
+	}
+	@media(max-width: 500px){
+		.col-xs-12{
+			width: 90%;
+			margin: 0 auto;
+			float: none;	
+		}
+	
+	}
+
 /* Sections/Article */
 
 	section, article {
