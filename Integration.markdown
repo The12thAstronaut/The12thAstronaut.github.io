@@ -39,7 +39,7 @@ Terry has wanted to be an astronaut since she was a kid and has always actively 
 
 
 ![image](/assets/images/Rodriguez_Matthew_Pic2.jpg){:width="300px" style="float: left; padding-right:20px"}
-**Matthew Rodriguez** is an energetic third year Mechanical engineering student at Texas A&M University that has collaborated with NASA SUITS for nearly one year as a part of the Integration and Finance team. After graduation Matthew hopes to pursue a career defence contracting with L3 Harris. When Matthew is not busy with school he enjoys  powerlifting, golfing and studying astronomy.
+**Matthew Rodriguez** is an energetic third year Mechanical engineering student at Texas A&M University that has collaborated with NASA SUITS for nearly one year as a part of the Integration and Finance team. After graduation Matthew hopes to pursue a career in defense contracting with L3 Harris. When Matthew is not busy with school he enjoys  powerlifting, golfing and studying astronomy. 
 
 <span style="display:block" class="note"> --- </span>
 
