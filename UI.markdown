@@ -26,6 +26,60 @@ He obtained his Bachelor's degree in Electrical Engineering from Texas A&M Unive
 
 Team Members:
 
+<div class="container">
+<div class="row">
+    <div class="col-md-3 col-sm-6 col-xs-12">
+        <div class="thumbnail">
+           <img src="img/img_avatar1.png" alt="Nature" />
+          <div class="caption">
+            <a href="#">Joy taylor</a>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+            consequat.</p>
+          </div>
+        </div>
+</div>
+<div class="col-md-3 col-sm-6 col-xs-12">
+			<div class="thumbnail">
+           <img src="img/img_avatar2.png" alt="Nature" />
+          <div class="caption">
+            <a href="#">Roy Sting</a>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+            cillum dolore eu fugiat nulla pariatur.</p>
+          </div>
+        </div>
+	</div>
+	<div class="col-md-3 col-sm-6 col-xs-12">
+			<div class="thumbnail">
+           <img src="img/img_avatar3.png" alt="Nature" />
+          <div class="caption">
+            <a href="#">Jorden Martin</a>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+            consequat.</p>
+          </div>
+        </div>
+	</div>
+    <div class="col-md-3 col-sm-6 col-xs-12">
+      <div class="thumbnail">
+           <img src="img/img_avatar3.png" alt="Nature" />
+          <div class="caption">
+            <a href="#">Roy Jorden</a>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+            consequat.</p>
+          </div>
+        </div>
+  </div>
+
+</div>
+
 ![image](/assets/images/laurenbrady.jpeg){:width="300px" style="float: left; padding-right:10px"}
 **Lauren Brady** is an aerospace engineer, class of 2023. She is interested in developing augmented and virtual reality applications for use in space exploration and aerospace engineering. She is involved in several research groups within the AstroLab at Texas A&M University, namely a virtual reality sandbox for space mission design and exploration called SpaceCRAFT and the NASA SUITS design team.
 
