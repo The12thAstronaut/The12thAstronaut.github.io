@@ -261,6 +261,23 @@
 		}
 	
 	}
+/* Auto show hide div */
+div {
+width: 100%; 
+}
+
+div.autoShowHide {
+white-space: nowrap; 
+width: 400px; 
+overflow: hidden;
+text-overflow: ellipsis;
+}
+
+div.autoShowHide:hover {
+white-space: normal; 
+overflow: visible;
+width: 100%; 
+}
 
 /* Sections/Article */
 

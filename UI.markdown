@@ -26,11 +26,13 @@ Team Lead: Neil McHenry
         <div class="thumbnail">
            <img src="assets/images/NeilMcHenry_Austria_SpaceSuit.jpg" alt="Neil" />
             <div class="caption">
-                <strong>Neil McHenry</strong>
-                <p>is a PhD student in the ITDE program, class of 2023. He is split between the departments of Aerospace Engineering and Visualization from the College of Architecture. He is an active member of the Students for the Exploration and Development of Space (SEDS-USA). His research focuses on developing a virtual reality space sandbox called "SpaceCRAFT" that aims to help shape the future of humanity in space. He hails from Dallas, TX and is currently is a PhD Candidate in the Aerospace Engineering Department at Texas A&M University, with a focus in spacecraft dynamics and control.
-                <br>
-                <br>
-                He obtained his Bachelor's degree in Electrical Engineering from Texas A&M University in 2015. During his undergraduate degree, he interned at the NASA Johnson Space Center for two summers, where he helped develop electrical hardware systems to train astronauts as part of the International Space Station program. At SpaceX, he helped develop flight software and hardware for the autonomous propulsive landing systems that are currently used on the Falcon 9 launch system. He is an Eagle Scout and enjoys volunteering around the community with the American Red Cross, and performing music on xylophone & viola with the "Chyao Pra Ya" Dallas Thai orchestra. His main passions are to become an astronaut and to ensure that humanity's future in space is bright.</p>
+                <div class="autoShowHide">
+                    <strong>Neil McHenry</strong>
+                    <p>is a PhD student in the ITDE program, class of 2023. He is split between the departments of Aerospace Engineering and Visualization from the College of Architecture. He is an active member of the Students for the Exploration and Development of Space (SEDS-USA). His research focuses on developing a virtual reality space sandbox called "SpaceCRAFT" that aims to help shape the future of humanity in space. He hails from Dallas, TX and is currently is a PhD Candidate in the Aerospace Engineering Department at Texas A&M University, with a focus in spacecraft dynamics and control.
+                    <br>
+                    <br>
+                    He obtained his Bachelor's degree in Electrical Engineering from Texas A&M University in 2015. During his undergraduate degree, he interned at the NASA Johnson Space Center for two summers, where he helped develop electrical hardware systems to train astronauts as part of the International Space Station program. At SpaceX, he helped develop flight software and hardware for the autonomous propulsive landing systems that are currently used on the Falcon 9 launch system. He is an Eagle Scout and enjoys volunteering around the community with the American Red Cross, and performing music on xylophone & viola with the "Chyao Pra Ya" Dallas Thai orchestra. His main passions are to become an astronaut and to ensure that humanity's future in space is bright.</p>
+                </div>
           </div>
         </div>
     </div>
