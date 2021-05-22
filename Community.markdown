@@ -22,6 +22,8 @@ The Microsoft EPIC Program, Houston Microsoft Stores - Fall 2019, Impacted 250+
 Social Media
 Our Social Media team, led by Erin Caña, is always updating our platforms and highlighting member activities. Our username on Twitter, Instagram, and Facebook is: @TAMUNASASUITS be sure to follow and give us likes and shoutouts!
 
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <p > This page was last updated on: </p>
 <p id="demo"></p>
 

@@ -62,6 +62,7 @@ Team Lead: **Kevin Mayorga**
 
 **David Cornejo** (To be added)
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <p > This page was last updated on: </p>
 <p id="demo"></p>
 
