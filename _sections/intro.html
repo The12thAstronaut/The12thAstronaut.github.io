@@ -23,12 +23,13 @@ order: 2
     </div>
     <div class="4u 12u$(mobile)">
       <div class="item">
-                <div class="FeaturedImg">
-                <div class="videoSlate">
-                    <video class="image fit" loop>
-                      <source src="https://suits2021storage.blob.core.windows.net/website-videos/12thEclipseWhiteboard.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                    </video>
+                <div class="videoHover fit">
+                    <div class="videoSlate">
+                      <video class="thevideo" loop>
+                        <source src="https://suits2021storage.blob.core.windows.net/website-videos/12thEclipseWhiteboard.mp4" type="video/mp4">
+                      Your browser does not support the video tag.
+                      </video>
+                    </div>
                 </div>
             </div>
         <header>
@@ -65,7 +66,7 @@ order: 2
   var x = document.lastModified;
   document.getElementById("demo").innerHTML = x;
 
-  var figure = $(".videoSlate");
+  var figure = $(".videoHover");
   var vid = figure.find("video");
 
   [].forEach.call(figure, function (item,index) {
@@ -77,5 +78,8 @@ order: 2
       vid[index].play(); 
   }
 
+  function hideVideo(index, e) {
+      vid[index].pause(); 
+  }
 
 </script>
