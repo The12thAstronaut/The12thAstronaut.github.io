@@ -73,11 +73,11 @@
 		}
 	}
 	
-	#Featured {
+	.Featured {
 	    transition:transform 0.25s ease;
 	}
 
-	#Featured:hover {
+	.Featured:hover {
 	    -webkit-transform:scale(1.5);
 	    transform:scale(1.5);
 	}
