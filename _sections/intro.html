@@ -25,7 +25,7 @@ order: 2
       <div class="item">
                 <div class="FeaturedImg">
                 <div class="videoSlate">
-                    <video class="thevideo" loop>
+                    <video class="image fit" loop>
                       <source src="https://suits2021storage.blob.core.windows.net/website-videos/12thEclipseWhiteboard.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                     </video>
@@ -65,7 +65,7 @@ order: 2
   var x = document.lastModified;
   document.getElementById("demo").innerHTML = x;
 
-  var figure = $(".videoHover");
+  var figure = $(".videoSlate");
   var vid = figure.find("video");
 
   [].forEach.call(figure, function (item,index) {
