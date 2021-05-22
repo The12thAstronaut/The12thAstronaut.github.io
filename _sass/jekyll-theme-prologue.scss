@@ -82,6 +82,21 @@
 	    transform:scale(1.5);
 	}
 
+	#videosList {
+		max-width: 600px; 
+		 overflow: hidden;
+	   }
+	   
+	   .video {
+		 background-image: url('https://suits2021storage.blob.core.windows.net/website-videos/issThumbnail.png');
+		 background-size: contain;
+	   }
+	   
+	   /* Hide Play button + controls on iOS */
+	   video::-webkit-media-controls {
+		   display:none !important;
+	   }
+
 	input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 19pt;

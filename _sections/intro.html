@@ -23,17 +23,19 @@ order: 2
     </div>
     <div class="4u 12u$(mobile)">
       <div class="item">
-                <div class="FeaturedImg">
-                <div class="videoSlate">
-                    <video class="image fit" loop>
-                      <source src="https://suits2021storage.blob.core.windows.net/website-videos/12thEclipseWhiteboard.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                    </video>
-                </div>
-            </div>
-        <header>
-          <h3>bear</h3>
-        </header>
+        <div class="FeaturedImg">
+          <div class="videoSlate">
+            <div class="video">
+              <video class="image fit" muted="muted">
+                <source src="https://suits2021storage.blob.core.windows.net/website-videos/12thEclipseWhiteboard.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+              </video>
+            </div>                 
+            <header>
+              <h3>Video: VR Whiteboard on the ISS</h3>
+            </header>
+          </div>
+        </div>
       </div>
       <div class="item FeaturedImg">
         <a href="javascript:void(0)" class="image fit"><img src="{{ 'assets/images/Hologram_overlays.png' | relative_url }}" alt="UIA Hologram Overlay" /></a>
@@ -58,28 +60,25 @@ order: 2
     </div>
   </div>
 
-
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 <p > This page was last updated on: </p>
 <p id="demo"></p>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
 <script>
   var x = document.lastModified;
   document.getElementById("demo").innerHTML = x;
+    var cip = $(".video").hover( hoverVideo, hideVideo );
+    console.log("Hello world!");
+    console.log(cip);
+    function hoverVideo(e) {  
+        $('video', this).get(0).play(); 
+        console.log("Video playing!");
+    }
 
-  var figure = $(".videoSlate");
-  var vid = figure.find("video");
-
-  [].forEach.call(figure, function (item,index) {
-      item.addEventListener('mouseover', hoverVideo.bind(item,index), false);
-      item.addEventListener('mouseout', hideVideo.bind(item,index), false);
-  });
-
-  function hoverVideo(index, e) {
-      vid[index].play(); 
-  }
-
-  function hideVideo(index, e) {
-      vid[index].pause(); 
-  }
+    function hideVideo(e) {
+        $('video', this).get(0).pause(); 
+        console.log("Video Paused!");
+    }
 </script>
