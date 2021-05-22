@@ -53,12 +53,35 @@ Team Lead: Jaime Vives
         </div>
     </div>
     <div class="col-md-3 col-sm-6 col-xs-12">
-      <div class="thumbnail">
-           <img src="assets/images/Rodriguez_Matthew_Pic2.jpg" alt="Matt" />
-            <div class="caption">
-                <div class="autoShowHide">
-                <strong>Matthew Rodriguez</strong>
-                    <p>is an energetic third year Mechanical engineering student at Texas A&M University that has collaborated with NASA SUITS for nearly one year as a part of the Integration and Finance team. After graduation Matthew hopes to pursue a career in defense contracting with L3 Harris. When Matthew is not busy with school he enjoys  powerlifting, golfing and studying astronomy.</p>
+        <div class="thumbnail">
+             <img src="assets/images/Rodriguez_Matthew_Pic2.jpg" alt="Matt" />
+              <div class="caption">
+                  <div class="autoShowHide">
+                  <strong>Matthew Rodriguez</strong>
+                      <p>is an energetic third year Mechanical engineering student at Texas A&M University that has collaborated with NASA SUITS for nearly one year as a part of the Integration and Finance team. After graduation Matthew hopes to pursue a career in defense contracting with L3 Harris. When Matthew is not busy with school he enjoys  powerlifting, golfing and studying astronomy.</p>
+                  </div>
+              </div>
+          </div>
+      </div>
+    <div class="col-md-3 col-sm-6 col-xs-12">
+        <div class="thumbnail">
+             <img src="assets/images/CassieMullins.jpg" alt="Cassie" />
+              <div class="caption">
+                  <div class="autoShowHide">
+                  <strong>Cassie Mullins</strong>
+                      <p>is a first year Visualization MS student at Texas A&M. She is from Atlanta, Georgia, where she graduated from Georgia Tech with a BS in Computational Media in 2019 and worked as a software developer for NCR. She’s also previously interned as a game developer at Adult Swim and was an undergraduate research assistant in an AR/VR lab. She loves computer graphics and hopes one day to help make tools for artists, developers, and engineers. She loves traveling, hiking, white water rafting on breaks and spends most of her free time during the semester watching movies and playing (and occasionally making) games.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3 col-sm-6 col-xs-12">
+        <div class="thumbnail">
+             <img src="assets/images/AshuMishra.png" alt="Ashu" />
+              <div class="caption">
+                  <div class="autoShowHide">
+                  <strong>Ashutosh Mishra</strong>
+                      <p>is an undergraduate aerospace engineer student, class of 2022. He is interested in developing AR and VR systems for space exploration. He has been part of the NASA SUITS team since 2018. He is part of the integration team and is the finance lead for the organization since August 2019.
+                        As for hobbies, he likes to workout, dance, play video games, and watch anime.</p>
                 </div>
             </div>
         </div>
