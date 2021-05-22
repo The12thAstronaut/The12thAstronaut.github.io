@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: bootstrap
 title: Integration Team
 order: 3
 ---
