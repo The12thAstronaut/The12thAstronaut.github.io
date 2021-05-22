@@ -73,6 +73,18 @@
 		}
 	}
 
+	#rightImage  
+	{  
+	  height:275px;  
+	  float:left;  
+	  position:relative;  
+	}  
+
+	#rightImage:hover img  
+	{  
+	  height: 300px;  
+	}
+
 	input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 19pt;
