@@ -72,17 +72,14 @@
 			@include vendor('animation', 'none !important');
 		}
 	}
+	
+	#Featured {
+	    transition:transform 0.25s ease;
+	}
 
-	#rightImage  
-	{  
-	  height:275px;  
-	  float:left;  
-	  position:relative;  
-	}  
-
-	#rightImage:hover img  
-	{  
-	  height: 300px;  
+	#Featured:hover {
+	    -webkit-transform:scale(1.5);
+	    transform:scale(1.5);
 	}
 
 	input, textarea, select {
