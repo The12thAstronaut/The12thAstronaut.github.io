@@ -44,6 +44,22 @@
   <script src="{{- 'assets/js/skel.min.js' | relative_url -}}" defer></script>
   <script src="{{- 'assets/js/util.js' | relative_url -}}" defer></script>
   <!--[if lte IE 8]><script src="{{- 'assets/js/ie/respond.min.js' | relative_url -}}" defer></script><![endif]-->
-  <script src="{{- 'assets/js/main.js' | relative_url -}}" defer></script>
+  <script>
+    var figure = $(".video");
+    var vid = figure.find("video");
+
+    [].forEach.call(figure, function (item,index) {
+        item.addEventListener('mouseover', hoverVideo.bind(item,index), false);
+        item.addEventListener('mouseout', hideVideo.bind(item,index), false);
+    });
+
+    function hoverVideo(index, e) {
+        vid[index].play(); 
+    }
+
+    function hideVideo(index, e) {
+        vid[index].pause(); 
+    }
+  </script>
 
 </head>
