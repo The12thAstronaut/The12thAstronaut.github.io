@@ -61,3 +61,11 @@ Team Lead: **Kevin Mayorga**
 </div>
 
 **David Cornejo** (To be added)
+
+<p > This page was last updated on: </p>
+<p id="demo"></p>
+
+<script>
+  var x = document.lastModified;
+  document.getElementById("demo").innerHTML = x;
+</script>

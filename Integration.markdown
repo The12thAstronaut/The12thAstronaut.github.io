@@ -79,3 +79,11 @@ Team Lead: **Jaime Vives**
         </div>
     </div>
 </div>
+
+<p > This page was last updated on: </p>
+<p id="demo"></p>
+
+<script>
+  var x = document.lastModified;
+  document.getElementById("demo").innerHTML = x;
+</script>
