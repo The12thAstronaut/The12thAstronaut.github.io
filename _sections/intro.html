@@ -3,23 +3,27 @@ title: Featured Work
 icon: fa-th
 order: 2
 ---
-<script src="https://code.jquery.com/jquery-1.11.0.min.js">
-  var figure = $(".video");
-  var vid = figure.find("video");
+<head>
+  <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script>
+    var figure = $(".video");
+    var vid = figure.find("video");
 
-  [].forEach.call(figure, function (item,index) {
-      item.addEventListener('mouseover', hoverVideo.bind(item,index), false);
-      item.addEventListener('mouseout', hideVideo.bind(item,index), false);
-  });
+    [].forEach.call(figure, function (item,index) {
+        item.addEventListener('mouseover', hoverVideo.bind(item,index), false);
+        item.addEventListener('mouseout', hideVideo.bind(item,index), false);
+    });
 
-  function hoverVideo(index, e) {
-      vid[index].play(); 
-  }
+    function hoverVideo(index, e) {
+        vid[index].play(); 
+    }
 
-  function hideVideo(index, e) {
-      vid[index].pause(); 
-  }
-</script>
+    function hideVideo(index, e) {
+        vid[index].pause(); 
+    }
+  </script>
+</head>
+  
 <p>Howdy, welcome to the 12th astronaut lab's website! Below are a few of our recent Augmented Reality designs and artwork from our team. </p>
 
   <div class="row">
