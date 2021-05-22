@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: bootstrap
 title: Community
 order: 6
 ---
