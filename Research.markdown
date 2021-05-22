@@ -1,5 +1,6 @@
+
 ---
-layout:bootstrap
+layout: bootstrap
 title: Research Team
 order: 4
 ---
@@ -10,6 +11,8 @@ The team completed research related to Augmented/Virtual Reality efficiency and 
 Team Lead: Kevin Mayorga
 
 **Team Members:**
+
+**David Cornejo** (To be added)
 
 <div class="container">
 <div class="row">
@@ -59,4 +62,3 @@ Team Lead: Kevin Mayorga
     </div>
 </div>
 
-**David Cornejo** (To be added)
