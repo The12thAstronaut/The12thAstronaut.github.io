@@ -23,18 +23,17 @@ order: 2
     </div>
     <div class="4u 12u$(mobile)">
       <div class="item">
-              <div class="FeaturedImg">
-                      <div class="videoSlate">
-                          <video class="image fit" loop>
-                            <source src="https://suits2021storage.blob.core.windows.net/website-videos/12thEclipseWhiteboard.mp4" type="video/mp4">
-                          Your browser does not support the video tag.
-                          </video>
-                      </div>
-                  </div>
-              <header>
-                <h3>bear</h3>
-              </header>
+                <div class="FeaturedImg">
+                <div class="videoSlate">
+                    <video class="image fit" loop>
+                      <source src="https://suits2021storage.blob.core.windows.net/website-videos/12thEclipseWhiteboard.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                    </video>
+                </div>
             </div>
+        <header>
+          <h3>bear</h3>
+        </header>
       </div>
       <div class="item FeaturedImg">
         <a href="javascript:void(0)" class="image fit"><img src="{{ 'assets/images/Hologram_overlays.png' | relative_url }}" alt="UIA Hologram Overlay" /></a>
@@ -66,7 +65,7 @@ order: 2
   var x = document.lastModified;
   document.getElementById("demo").innerHTML = x;
 
-  var figure = $(".videoHover");
+  var figure = $(".videoSlate");
   var vid = figure.find("video");
 
   [].forEach.call(figure, function (item,index) {
@@ -81,5 +80,4 @@ order: 2
   function hideVideo(index, e) {
       vid[index].pause(); 
   }
-
 </script>
