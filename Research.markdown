@@ -1,5 +1,5 @@
 ---
-layout: page
+layout:bootstrap
 title: Research Team
 order: 4
 ---
