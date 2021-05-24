@@ -88,19 +88,22 @@
 	   }
 	   
 	   .video {
-		 background-image: url('https://suits2021storage.blob.core.windows.net/website-videos/issThumbnail.png');
 		 background-size: contain;
 	   }
 
-	   .video2 {
+	   .thumbnailISS {
+		background-image: url('https://suits2021storage.blob.core.windows.net/website-videos/issThumbnail.png');
+   		}
+
+	   .thumbnailLog2 {
 		 background-image: url('https://suits2021storage.blob.core.windows.net/website-videos/devlog2thumbnail.png');
-		 background-size: contain;
-	   }
+	    }
 
-	   .video3 {
+	   .thumbnailLog1 {
 		 background-image: url('https://suits2021storage.blob.core.windows.net/website-videos/devlog1thumbnail.png');
-		 background-size: contain;
-	   }
+	    }
+
+
 	   
 	   /* Hide Play button + controls on iOS */
 	   video::-webkit-media-controls {
