@@ -4,8 +4,7 @@ title: Community
 order: 6
 ---
 
-Outreach
-Our Outreach team, led by Lauren Brady, is constantly working to engage students and community members. This academic year, we have worked with the Texas A&M Engineering Outreach team and the Microsoft EPIC program. So far, the team has impacted 600+ students and community members through facilitating programs. Events the team has supported:
+Our **Outreach team**, led by Lauren Brady, is constantly working to engage students and community members. This academic year, we have worked with the Texas A&M Engineering Outreach team and the Microsoft EPIC program. So far, the team has impacted 600+ students and community members through facilitating programs. Events the team has supported:
 
  
 
@@ -19,8 +18,7 @@ The EnVision Conference, Texas A&M - November 2019, Impacted 200+
 
 The Microsoft EPIC Program, Houston Microsoft Stores - Fall 2019, Impacted 250+
 
-Social Media
-Our Social Media team, led by Erin Caña, is always updating our platforms and highlighting member activities. Our username on Twitter, Instagram, and Facebook is: @TAMUNASASUITS be sure to follow and give us likes and shoutouts!
+Our **Social Media team**, led by Erin Caña, is always updating our platforms and highlighting member activities. Our username on Twitter, Instagram, and Facebook is: @TAMUNASASUITS Check us out to learn more about our team and see updates!
 
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray"> 
