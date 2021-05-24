@@ -82,6 +82,11 @@
 	    transform:scale(1.5);
 	}
 
+	.remove-all-margin-padding{
+		margin:0 ! important;
+		padding:0 ! important;
+		}
+
 	#videosList {
 		max-width: 600px; 
 		 overflow: hidden;
@@ -849,7 +854,7 @@ width: 100%;
 		/* Main */
 
 			#main {
-				margin-left: 10%;
+				margin-left: 300px;
 			}
 
 	}
