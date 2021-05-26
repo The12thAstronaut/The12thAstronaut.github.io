@@ -42,7 +42,7 @@ NASA Advisor: **Mr. Daren Welsh**
     </div>
     <div class="col-md-3 col-sm-6 col-xs-12">
       <div class="thumbnail">
-           <img src="https://media-exp1.licdn.com/dms/image/C4D03AQFsj0Ehcecjng/profile-displayphoto-shrink_400_400/0/1516932850784?e=1626912000&v=beta&t=qr07hnW3ZRxPH_OmiGJMDz0z7sI7GMjtBNuVH3T3tvg" alt="Welsh" />
+           <img src="assets/images/darenWelsh.jpg" alt="Welsh" />
             <div class="caption">
                 <strong>Daren Welsh</strong>
                 <p>is a certified astronaut instructor in EVA Tasks and certified flight controller in MCC. Provide expert planning, detailed development, and integration of EVA operations for ISS. Lead mentor for instructor and flight controller certification. Solving the knowledge management problem in flight operations through the use of networked semantic wikis.</p>
