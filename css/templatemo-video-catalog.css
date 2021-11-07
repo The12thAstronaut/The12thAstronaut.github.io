@@ -1,18 +1,10 @@
-/*
-
-TemplateMo 552 Video Catalog
-
-https://templatemo.com/tm-552-video-catalog
-
-*/
-
-html { scroll-behavior: smooth; overflow-x: hidden; }
+html {}
 
 body {
     margin: 0;
     padding: 0;
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 2em;
     overflow-x: hidden;
 }
@@ -27,7 +19,7 @@ a:hover {
     text-decoration: none;
 }
 
-h2, p { color: #666666; }
+h2, p, ul { color: #666666; }
 
 .tm-site-header {
     position: absolute;
@@ -61,7 +53,7 @@ h2, p { color: #666666; }
 }
 
 .tm-bg-black {
-    background-color: rgba(0,0,0,0.5);
+    background-color: transparent;
     color: white;
 }
 
@@ -110,6 +102,18 @@ h2, p { color: #666666; }
 
 .btn-primary { background-color: #3399CC; }
 .btn-primary:hover { background-color: #1674a0; }
+
+.rounded-circle {
+    width:  20vw;
+    height: 20vw;
+    object-fit: cover;
+}
+
+.tile {
+    width:  20vw;
+    height: 20vw;
+    object-fit: cover;
+}
 
 /*
     Button hover effect: https://tympanus.net/Development/CreativeButtons/
@@ -226,6 +230,12 @@ h2, p { color: #666666; }
     font-size: 2.5rem; 
     color: rgba(255,255,255,0.7);
 }
+
+.tm-page-subtitle { 
+    font-size: 1.5rem; 
+    color: rgba(255,255,255,0.7);
+}
+
 .tm-catalog-item-list { justify-content: space-between; }
 
 .tm-catalog-item {
@@ -410,7 +420,7 @@ button:hover {
     left: 1vw;
     bottom: 1vh;
     text-align: center;
-    font-family: Montserrat;
+    /*font-family: Montserrat;*/
     font-size: max(14px, .95vw);
     padding: 0vw;
 }
@@ -460,9 +470,11 @@ button:hover {
 }
 
 #tm-fixed-header-bg { height: 450px; }
-.tm-fixed-header-1 { background-image: url(../img/video-detail-1.jpg); }
-.tm-fixed-header-2 { background-image: url(../img/about-1.jpg); }
-.tm-fixed-header-3 { background-image: url(../img/contact-1.jpg); }
+.tm-fixed-header-member { background-image: url(../img/neil_newmarscity.jpg); }
+.tm-fixed-header-team { background-image: url(../img/neil_3d.png); }
+.tm-fixed-header-outreach { background-image: url(../img/neil_penta_rocket.png); }
+.tm-fixed-header-art { background-image: url(../img/neil_icebound_oil.png); }
+.tm-fixed-header-contact { background-image: url(../img/erin_city.png);}
 
 video {
   width: 100%;
@@ -632,4 +644,21 @@ video {
     .tm-testimonial {
         flex-direction: column;
     }
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    overflow-y: overlay;
+    overflow-x: hidden;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background-color: #152E4EBF;
+    border-radius: 4px;
 }
