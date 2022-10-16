@@ -2,14 +2,19 @@
 <html>
 
 <head>
+    <!-- Team Logo -->
     <link rel="team-logo" sizes="180x180" href="/Team-Logo.png">  
     
+    <!-- fonts -->
     <link href='https://fonts.googleapis.com/css?family=Mina' rel='stylesheet'>
     <link href='https://fonts.googleapis.com/css?family=Audiowide' rel='stylesheet'>
     <link href='https://fonts.googleapis.com/css?family=Titillium Web' rel='stylesheet'>
 
+    <!-- css stylesheets -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     
+    
+    <!-- title -->
     <title>12th Astronaut Lab | Home</title>
 
     <meta name="viewport" content="width=device-width, intiial-scale=1">
@@ -63,51 +68,128 @@
         }
 
         .topnav .icon {
-            display: none;
+          display: none;
+        }
+
+        /* Left  */
+
+        .left {
+          float: left;
+          width: 32.5%;
+          margin-top: 50px;
+          margin-bottom: 0px;
+          overflow: auto; 
+        }
+
+        /* right  */
+
+        .right {
+          float: left;
+          width: 32.5%;
+          margin-top: 50px;
+          margin-bottom: 0px;
+          overflow: auto;  
+        }
+
+
+        .middle {
+          float: left;
+          width: 35%;
+          overflow: auto;
+        }
+
+        .leftcols {
+          float: left;
+          width: 33.33%;
+          overflow: auto;
+        }
+
+
+        /* Main description */
+        .teamdesc {
+          margin-top: 30px;
         }
 
         .header {
-            padding: 20px;
-            text-align: center;
-            font-family: 'Mina';
+          padding: 20px;
+          text-align: center;
+          padding-left: 16px; 
+          font-family: 'Audiowide'; 
+          font-size: 35px;
         }
 
-        .teamdesc {
-            margin-top: 30px;
+        .paradesc {
+          text-align: left; 
+          /* width: 40%;  */
+          margin: auto; 
+          min-width: 20%; 
+          display: block; 
+          font-family: 'Mina';
+          padding-left: 2%;
+          padding-right: 2%;
+        }
+
+        .logobig {
+          width: 50%;
+          min-width: 200px;
+        }
+
+        .downwardtext {
+          font-size: xx-large;
+        }
+        @media screen and (max-width: 1100px) {
+          .topnav a:not(:first-child) {display: none;}
+           .topnav a.icon {
+            float: right;
+            display: block;
+          }
         }
 
 
         @media screen and (max-width: 1100px) {
-            .topnav a:not(:first-child) {display: none;}
-            .topnav a.icon {
-                float: right;
-                display: block;
-            }
+          .topnav.responsive {position: relative;}
+          .topnav.responsive .icon {
+            position: absolute;
+            right: 0;
+            top: 0;
+          }
+          .topnav.responsive a {
+            float: none;
+            display: block;
+            text-align: left;
+          }
         }
 
+        @media only screen and (max-width:1000px) {
+          /* For tablets: */
+          .left {
+            width: 100%;
+          }
+          .middle {
+            width: 100%;
+            
+          }
+          .right {
+            width: 100%;
+          }
 
-        @media screen and (max-width: 1100px) {
-            .topnav.responsive {position: relative;}
-            .topnav.responsive .icon {
-                position: absolute;
-                right: 0;
-                top: 0;
-            }
-            .topnav.responsive a {
-                float: none;
-                display: block;
-                text-align: left;
-            }
+          .leftcols {
+            width: 100%;
+          }
         }
-
-        
+        @media only screen and (max-width:500px) {
+          /* For mobile phones: */
+          .left, .maiddle, .right {
+            width: 100%;
+        }
+        }  
     </style>
 </head>
 
 <body>
 
     <div class="topnav" id="TopNavBar">
-        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <a href="javascript:void(0);" class="icon" onclick="expandMenu()">
             <i class="fa fa-bars"></i>
         </a>
         <a class="#contact">Contact</a>
@@ -117,32 +199,155 @@
         <a class="#teams">Teams</a>
         <a class="active" href="#home">Home</a>
 
-        <img src="Team Logo.png" alt="Team Logo" style="width:55px;height:55px;float: left;padding: 5px 20px;">
+        <img src="Team Logo.png" alt="Team Logo" style="width:55px;height:55px;float: left;padding: 5px 20px; padding-bottom: 0px;">
         <b class="#teamname">THE 12TH ASTRONAUT LAB</b>
         
     </div>
 
 
-    <div class="teamdesc">
-        <div class="header">
-            <h2 style="padding-left: 16px; font-family: 'Audiowide'; font-size: 35px;">Our Team</h2> 
-            <p style="text-align: left; width: 30%; margin: auto; min-width: 10%;">
-                Team description mina lorei ipsum sahd fsdauiwe asfd sadjkhf lkjashd KSJDaljks dLKJFDHA jhkalsd kjsdhafuiwaa sdlfjahs fi have tha fkj ueiawghl fsajd kadsfjsaklhf
-                Mission descriptionf asdk
-                sadjagd asjdgf kafaksdhf jasjkd hfjsadk <br>
-                sadjfhksaljdfh sadfsadfsadffsadsafdd
-                sfdjkalfhalsssdsafdsafffffffffff
-                sadjfhjsalkhlkjhklsajdfhlkjhsdf
-                <br>
-                <section style="text-align: left; width: 30%; margin: auto; margin-top: 1em; min-width: 10%;"> 
-                    testestestestestestestestestestest section test
-                </section>
-            </p>
-        </div>
+    <div class="left">
+      <p style="text-align: center;">
+        <img src="Team Logo.png" style="display: block; overflow: hidden; width: 50%; float: left; margin: 24%;">
+      </p>
+    </div>
+
+    
+    <div class="middle">
+      <div class="teamdesc">
+        <h2 class='header' style="margin-top: 60px; margin-bottom: 0px;">Our Team</h2>
+        <p class="paradesc">
+          Team description mina lorei ipsum sahd fsdauiwe asfd sadjkhf lkjashd KSJDaljks dLKJFDHA jhkalsd kjsdhafuiwaa sdlfjahs fi have tha fkj ueiawghl fsajd kadsfjsaklhf
+          Mission descriptionf asdk
+          sadjagd asjdgf kafaksdhf jasjkd hfjsadk
+          sadjfhksaljdfh sadfsadfsadffsadsafdd
+          sfdjkalfhalsssdsafdsafffffffffff
+          sadjfhjsalkhlkjhklsajdfhlkjhsdf
+          <br>
+          <p class="paradesc" style="padding-top: 5px; padding-bottom: 10px;">
+            testestestestestestestestestestest section test
+          </p>
+          <img class="logobig" src="Team Logo.png" alt="Team Logo" style=" display: block; margin: auto; margin-top: 10%; margin-bottom: 30%;">
+        </p>
+      </div>
+    </div>
+
+    <div class="right">
+      <p style="text-align: center;">
+        <img src="Team Logo.png" style=" display: block; overflow: hidden; width: 50%; float: right; margin: 24%;">
+      </p>
+    </div>
+
+    <div class="leftcols">
+      <div class="teamdesc">
+        <h2 class='header' style=" margin-top: 50px; margin-bottom: 0px; padding-bottom: 0px;">Mission Description . . .</h2>
+        <h3 class ='header' style="padding: 0px;" >
+          NASA SUITS
+        </h3>
+        <p class="paradesc">
+          Team description mina lorei ipsum sahd fsdauiwe asfd sadjkhf lkjashd KSJDaljks dLKJFDHA jhkalsd kjsdhafuiwaa sdlfjahs fi have tha fkj ueiawghl fsajd kadsfjsaklhf
+          Mission descriptionf asdk
+          sadjagd asjdgf kafaksdhf jasjkd hfjsadk
+          sadjfhksaljdfh sadfsadfsadffsadsafdd
+          sfdjkalfhalsssdsafdsafffffffffff
+          sadjfhjsalkhlkjhklsajdfhlkjhsdf
+          <br>
+          <p class="paradesc" style="padding-top: 5px; padding-bottom: 10px;">
+            testestestestestestestestestestest section test
+          </p>
+          <img class="logobig" src="Team Logo.png" alt="Team Logo" style="display: block; margin: auto;">
+        </p>
+      </div>
+    </div>
+
+    <div class="leftcols">
+      <div class="teamdesc">
+        <h2 class='header' style=" margin-top: 50px; margin-bottom: 0px; padding-bottom: 0px;">Mission Description . . .</h2>
+        <h3 class ='header' style="padding: 0px" >TSGC CHALLENGE</h3>
+        <p class="paradesc">
+          Team description mina lorei ipsum sahd fsdauiwe asfd sadjkhf lkjashd KSJDaljks dLKJFDHA jhkalsd kjsdhafuiwaa sdlfjahs fi have tha fkj ueiawghl fsajd kadsfjsaklhf
+          Mission descriptionf asdk
+          sadjagd asjdgf kafaksdhf jasjkd hfjsadk
+          sadjfhksaljdfh sadfsadfsadffsadsafdd
+          sfdjkalfhalsssdsafdsafffffffffff
+          sadjfhjsalkhlkjhklsajdfhlkjhsdf
+          <br>
+          <p class="paradesc" style="padding-top: 5px; padding-bottom: 10px;">
+            testestestestestestestestestestest section test
+          </p>
+          <img class="logobig" src="Team Logo.png" alt="Team Logo" style="display: block; margin: auto;">
+        </p>
+      </div>
+    </div>
+
+    <div class="leftcols">
+      <div class="teamdesc">
+        <h2 class='header' style=" margin-top: 50px; margin-bottom: 0px; padding-bottom: 0px;">Mission Description . . .</h2>
+        <h3 class ='header' style="padding: 0px" >VR ART GALLERY</h3>
+        <p class="paradesc">
+          Team description mina lorei ipsum sahd fsdauiwe asfd sadjkhf lkjashd KSJDaljks dLKJFDHA jhkalsd kjsdhafuiwaa sdlfjahs fi have tha fkj ueiawghl fsajd kadsfjsaklhf
+          Mission descriptionf asdk
+          sadjagd asjdgf kafaksdhf jasjkd hfjsadk
+          sadjfhksaljdfh sadfsadfsadffsadsafdd
+          sfdjkalfhalsssdsafdsafffffffffff
+          sadjfhjsalkhlkjhklsajdfhlkjhsdf
+          <br>
+          <p class="paradesc" style="padding-top: 5px; padding-bottom: 10px;">
+            testestestestestestestestestestest section test
+          </p>
+          <img class="logobig" src="Team Logo.png" alt="Team Logo" style="display: block; margin: auto;">
+        </p>
+      </div>
+    </div>
+
+
+    <div class="leftcols">
+      <div class="teamdesc">
+        <h3 class ='header' style="padding: 0px" >AUGMENTED REALITY</h3>
+        <p class="paradesc">
+          Team description mina lorei ipsum sahd fsdauiwe asfd sadjkhf lkjashd KSJDaljks dLKJFDHA jhkalsd kjsdhafuiwaa sdlfjahs fi have tha fkj ueiawghl fsajd kadsfjsaklhf
+          Mission descriptionf asdk
+          sadjagd asjdgf kafaksdhf jasjkd hfjsadk
+          sadjfhksaljdfh sadfsadfsadffsadsafdd
+          sfdjkalfhalsssdsafdsafffffffffff
+          sadjfhjsalkhlkjhklsajdfhlkjhsdf
+          <br>
+          <p class="paradesc" style="padding-top: 5px; padding-bottom: 10px;">
+            testestestestestestestestestestest section test
+          </p>
+          <img class="logobig" src="Team Logo.png" alt="Team Logo" style="display: block; margin: auto;">
+        </p>
+      </div>
+    </div>
+
+    <div class="leftcols">
+      <div class="downwardtext">
+        <h2 class="header">
+          Filler
+        </h2>
+      </div>
+    </div>
+
+    <div class="leftcols">
+      <div class="teamdesc">
+        <h3 class ='header' style="padding: 0px" >VIRTUAL REALITY</h3>
+        <p class="paradesc">
+          Team description mina lorei ipsum sahd fsdauiwe asfd sadjkhf lkjashd KSJDaljks dLKJFDHA jhkalsd kjsdhafuiwaa sdlfjahs fi have tha fkj ueiawghl fsajd kadsfjsaklhf
+          Mission descriptionf asdk
+          sadjagd asjdgf kafaksdhf jasjkd hfjsadk
+          sadjfhksaljdfh sadfsadfsadffsadsafdd
+          sfdjkalfhalsssdsafdsafffffffffff
+          sadjfhjsalkhlkjhklsajdfhlkjhsdf
+          <br>
+          <p class="paradesc" style="padding-top: 5px; padding-bottom: 10px;">
+            testestestestestestestestestestest section test
+          </p>
+          <img class="logobig" src="Team Logo.png" alt="Team Logo" style="display: block; margin: auto;">
+        </p>
+      </div>
     </div>
 
     <script>
-        function myFunction() {
+        function expandMenu() {
           var x = document.getElementById("TopNavBar");
           if (x.className === "topnav") {
             x.className += " responsive";
